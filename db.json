@@ -1,0 +1,20 @@
+{
+  "users": [
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Notebook dell novinho",
+      "price": "R$ 2.999,00",
+      "description": "Melhor da linha inspiron 15",
+      "image": "https://i.zst.com.br/images/os-9-melhores-notebooks-dell-em-2019-photo775583635-44-26-10.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Samsung Book",
+      "price": "R$ 1.299,00",
+      "description": "Samsung Book 4BG Ram 1TB",
+      "image": "https://i.zst.com.br/images/notebook-samsung-book-e30-intel-core-i3-10110u-10-geracao-4gb-de-ram-hd-1-tb-15-6-full-hd-windows-10-np550xcj-kt-photo1129601879-12-30-17.jpg"
+    }
+  ]
+}
