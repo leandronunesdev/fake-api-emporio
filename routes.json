@@ -1,3 +1,4 @@
 {
-  "/products*": "/440/products$1"
+  "/categories*": "/440/categories$1",
+  "/beers*": "/440/beers$1"
 }
